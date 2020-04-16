@@ -15,7 +15,7 @@ MQTT Topics to be published.
 
 | Topic                              | Description                                         |
 | ---------------------------------- | --------------------------------------------------- |
-| WeatherStation/WindSpeed           |  set topic - Gust windspeed (m/s) during ReportTimerShort      |
+| WeatherStation/WindSpeed           |  set topic - Gust windspeed (m/s) during `ReportTimerShort`    |
 | WeatherStation/WindSpeedAverage    |  set topic - Average windspeed (m/s) during ReportTimerLong    |
 | WeatherStation/MinWindSpeed        |  set topic - Min gust windspeed (m/s) during ReportTimerShort  |
 | WeatherStation/MaxWindSpeed        |  set topic - Max gust windspeed (m/s) during ReportTimerShort  |
