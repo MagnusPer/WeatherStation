@@ -20,7 +20,7 @@ MQTT Topics to be published.
 | WeatherStation/MinWindSpeed        |  set topic - Min gust wind speed (m/s) during `ReportTimerShort`  |
 | WeatherStation/MaxWindSpeed        |  set topic - Max gust wind speed (m/s) during `ReportTimerShort`  |
 | WeatherStation/WindVane            |  set topic - Wind direction in degress 0-360                   |
-| WeatherStation/WindVaneCompass     |  set topic - Wind direction in text e.g. N, NE                 |
+| WeatherStation/WindVaneCompass     |  set topic - Wind compass direction e.g. N, NE                 |
 | WeatherStation/Temperature         |  set topic - Temparture in degrees                             |
 
 ## Wiring
