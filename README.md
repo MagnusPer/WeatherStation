@@ -32,7 +32,7 @@ MQTT Topics to be published.
 | Part                               | Comment/Link                                        |
 | ---------------------------------- | --------------------------------------------------- |
 |  Wemos D1 mini                     |                                                     |   
-|  Anenometer Davis 6410             |                                                     |
+|  Anemometer Davis 6410             |                                                     |
 |  Temp sensor DS18B20               | https://www.rutronik24.com/product/sauro/msb02005/5511.html |      
 
 
