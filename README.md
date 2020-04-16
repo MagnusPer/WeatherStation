@@ -1,8 +1,5 @@
 # WeatherStation
-Wind and temperature station reporting direction, max, min and average wind via MQTT topics
-
-# LED Dimmer
-An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based 1-channel 12VDC PWM Dimmer controled via MQTT topics a home automation system and/or by a physical button. 
+An [Wemos D1 Mini](https://wiki.wemos.cc/products:d1:d1_mini) based wind and temperature station reporting direction, max, min and average wind via MQTT topics
 
 ## Installation
 Needed Arduino Libraries to be included in [IDE](https://www.arduino.cc/en/Main/Software). Install them either from GitHub repository directly or within the IDE application itself **Sketch > Import Library** 
@@ -27,7 +24,7 @@ MQTT Topics to be published.
 | WeatherStation/Temperature         |  set topic - Temparture in degrees                             |
 
 ## Wiring
-<img src=https://github.com/MagnusPer/WeatherStation/blob/master/images/WeatherStation.jpg" width="400">
+<img src="https://github.com/MagnusPer/WeatherStation/blob/master/images/WeatherStation.jpg" width="400">
 
 
 
