@@ -31,7 +31,7 @@ MQTT Topics to be published.
 ## BOM List
 | Part                               | Comment/Link                                        |
 | ---------------------------------- | --------------------------------------------------- |
-|  Wemos D1 mini                     |  https://wiki.wemos.cc/products:d1:d1_mini          |   
+|  Wemos D1 mini                     | https://www.wemos.cc/en/latest/                     |   
 |  Anemometer Davis 6410             | https://www.davisinstruments.com/product/anemometer-for-vantage-pro2-vantage-pro/ |
 |  Tempsensor DB18B20                |                                                     |  
 |  Power Supply HLK-PM03             | http://www.hlktech.net/product_detail.php?ProId=59  |  
