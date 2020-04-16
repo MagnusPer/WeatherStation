@@ -24,7 +24,7 @@ MQTT Topics to be published.
 | WeatherStation/Temperature         |  set topic - Temparture in degrees                             |
 
 ## Wiring
-<img src="https://github.com/MagnusPer/WeatherStation/blob/master/images/WeatherStation.jpg" width="400">
+<img src="https://github.com/MagnusPer/WeatherStation/blob/master/images/WeatherStation.jpg" width="600">
 
 
 
