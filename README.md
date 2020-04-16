@@ -31,9 +31,10 @@ MQTT Topics to be published.
 ## BOM List
 | Part                               | Comment/Link                                        |
 | ---------------------------------- | --------------------------------------------------- |
-|  Wemos D1 mini                     |                                                     |   
-|  Anemometer Davis 6410             |                                                     |
-|  Temp sensor DS18B20               | https://www.rutronik24.com/product/sauro/msb02005/5511.html |      
+|  Wemos D1 mini                     |  https://wiki.wemos.cc/products:d1:d1_mini          |   
+|  Anemometer Davis 6410             | https://www.davisinstruments.com/product/anemometer-for-vantage-pro2-vantage-pro/ |
+|  Tempsensor DS18B20                |                                                     |  
+|  Power Supply HLK-PM03             | http://www.hlktech.net/product_detail.php?ProId=59  |  
 
 
 ## Features
@@ -42,5 +43,4 @@ MQTT Topics to be published.
  - Temperature 
  
 ## References
-- Wemos D1 Mini: https://wiki.wemos.cc/products:d1:d1_mini
 - http://cactus.io/hookups/weather/anemometer/davis/hookup-arduino-to-davis-anemometer-software 
