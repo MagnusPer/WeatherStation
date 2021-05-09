@@ -19,9 +19,9 @@ MQTT Topics to be published.
 | WeatherStation/WindSpeedAverage    |  set topic - Average wind speed (m/s) during `ReportTimerLong`   |
 | WeatherStation/MinWindSpeed        |  set topic - Min gust wind speed (m/s) during `ReportTimerShort`  |
 | WeatherStation/MaxWindSpeed        |  set topic - Max gust wind speed (m/s) during `ReportTimerShort`  |
-| WeatherStation/WindVane            |  set topic - Wind direction in degress 0-360                   |
+| WeatherStation/WindVane            |  set topic - Wind direction in degrees 0-360                   |
 | WeatherStation/WindVaneCompass     |  set topic - Wind compass direction e.g. N, NE                 |
-| WeatherStation/Temperature         |  set topic - Temparture in degrees                             |
+| WeatherStation/Temperature         |  set topic - Temperature in degrees                             |
 
 ## Wiring
 <img src="https://github.com/MagnusPer/WeatherStation/blob/master/images/WeatherStation.jpg" width="800">
